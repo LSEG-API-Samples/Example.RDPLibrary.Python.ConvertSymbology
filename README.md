@@ -23,4 +23,4 @@ However, if you are not using one of the above languages, you can still access t
 ### Access Credentials
 For details on Access Credentials, please see the [RDP Library Quick Start](https://developers.refinitiv.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-libraries/quick-start)
 
-#### NOTE: Whilst the RDP Library has built in ***convert_symbols()*** function, this call actually uses the RDP Search API - which you requires different licencing.
+### NOTE: Whilst the RDP Library has built in ***convert_symbols()*** function, this call actually uses the RDP Search API - which you requires different licencing.
