@@ -1,6 +1,8 @@
 # Example.RDPLibrary.Python.ConvertSymbology
 ## Symbology Conversion Example
+
 This is a simple notebook I created for a customer, demonstrating how to convert ISINs (or other Symbology) to RICs using the Refinitiv Data Platform Symbology API.
+
 Whilst, I will be working with ISINs and RICs, the API supports other types such as:
 - RIC
 - ISIN
